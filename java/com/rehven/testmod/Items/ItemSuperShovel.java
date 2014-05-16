@@ -4,8 +4,8 @@ import net.minecraft.item.ItemSpade;
 
 public class ItemSuperShovel extends ItemSpade 
 {
-	public ItemSuperShovel()
+	public ItemSuperShovel(ToolMaterial mat)
 	{
-		super(ToolMaterial.IRON);
+		super(mat);
 	}
 }

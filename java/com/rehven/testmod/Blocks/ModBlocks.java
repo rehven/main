@@ -17,6 +17,7 @@ public class ModBlocks
 	{
 		//Create mod blocks
 		modBlocksList.add(new BlockTestOre());
+		modBlocksList.add(new BlockIrrigationPipe());
 
 		//Add all mod blocks to the game
 		for (Block thisBlock : modBlocksList) {
