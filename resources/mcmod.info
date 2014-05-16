@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BlocksMod",
+  "name": "Blocks Test Mod",
+  "description": "Jon's test mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Designerman55"],
+  "credits": "The Forge and FML guys. Pahimar and VSWE for their YouTube tutorials.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
